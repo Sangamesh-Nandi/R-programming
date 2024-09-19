@@ -1,0 +1,6 @@
+help(list)
+empid=c(101,102,103,104)
+empname=c("Sangamesh","arsalan","vijay","sahil")
+employee = length(empid)
+emplist=list(empid,empname,employee)
+print(emplist)
