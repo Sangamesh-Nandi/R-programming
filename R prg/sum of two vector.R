@@ -1,0 +1,16 @@
+#create 2 vector of number of equal length and find the sum of both vector individually using sum function
+vector1 <- c(4,6)
+vector2 <- c(2,8)
+sum(vector1)
+sum(vector2)
+max(vector1)
+max(vector2)
+min(vector1)
+min(vector2)
+mean(vector1)
+mean(vector2)
+median(vector1)
+median(vector2)
+
+print(vector1+vector2)
+print(vector1+25)
